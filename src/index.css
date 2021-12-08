@@ -1,3 +1,9 @@
 body {
     margin: 0;
+    background-color: #2d357c;
+    
+}
+
+.AppBar {
+    background-color: #424b9b;
 }
